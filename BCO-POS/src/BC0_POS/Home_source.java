@@ -41,7 +41,7 @@ public class Home_source {
 
     public void setcolor(JPanel panel) {
         panel.setBackground(new Color(14, 18, 14));
-//comment
+
     }
 
     public void resetcolor(JPanel panel1) {
